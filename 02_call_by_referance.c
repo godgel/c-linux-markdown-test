@@ -37,7 +37,7 @@ int main()
 
 
 	swap(&left_num, &right_num); 
-	// This swap function draws an address of each left_num, right_num variable, 
+	// This swap function throw memory address of each left_num, right_num variable, 
 	// to the swap definition function(){...}
 	//
 
